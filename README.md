@@ -28,7 +28,7 @@ complete_grid/
     56_ear_canal_8x7_grid.stl
 ```
 
-Only the **left ear canal** from each source geometry was used. Models **#22 and #35** were excluded because the extracted meshes contained openings that prevented reliable generation of closed printable models, leaving 56 models.
+Only the **left ear canal** from each source geometry was used. Models **#22 and #35** were excluded because the extracted meshes contained openings that prevented reliable generation of closed printable models.
 
 ## Model design
 
