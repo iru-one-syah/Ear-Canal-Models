@@ -32,7 +32,7 @@ Only the **left ear canal** from each source geometry was used. Models **#22 and
 
 ## Model design
 
-Each anatomical ear canal was incorporated into a cylindrical test model while preserving its individual internal ear-canal geometry. During preliminary measurements, the rigid PLA models showed pronounced antiresonant notches in the probe-microphone frequency response. To reduce these notches, a soft silicone plug was added at the medial end as a **compliant termination**. This modification was useful for reducing the antiresonant behavior, but the silicone termination was not designed as a quantitative model of the human tympanic membrane.
+Each anatomical ear canal was incorporated into a cylindrical test model while preserving its individual internal ear-canal geometry. During preliminary measurements, the rigid PLA models showed pronounced antiresonant notches in the probe-microphone frequency response. To reduce these notches, a soft silicone plug was added at the medial end as a **more compliant silicone termination**. This modification was useful for reducing the antiresonant behavior, but the silicone termination was not designed as a quantitative model of the human tympanic membrane.
 
 For convenient printing and measurement, the 56 models were combined into a single **8 × 7 array**.
 
